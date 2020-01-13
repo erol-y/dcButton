@@ -17,3 +17,7 @@ Just copy those files to your project.
 Another option is linking as static library.
 
 There is a sample app in samples directory to demonstrate how to work.
+
+I have added simple Makefile for both library and sample.
+
+Also, Code::Blocks project files exist.
